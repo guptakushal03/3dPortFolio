@@ -3,7 +3,7 @@ import {
   backend,
   creator,
   web,
-  starbucks,
+  neurobot,
   carrent,
   jobit,
   tripguide,
@@ -51,7 +51,7 @@ const experiences = [
   {
     title: "Software Developer",
     company_name: "NeuroBot Technology",
-    icon: starbucks,
+    icon: neurobot,
     iconBg: "#383E56",
     date: "January 2025 - Present",
     points: [
